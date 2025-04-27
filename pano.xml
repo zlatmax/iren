@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.14" apprev="18105">
+  <panorama id="node1">
+    <input height="1944" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0.7972900000000001" levelingroll="1.59557" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944">
+      <level height="1944" predecode="0" preload="0" width="1944"/>
+      <level height="972" predecode="0" preload="0" width="972"/>
+      <level height="486" predecode="1" preload="1" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" scaletofit="1" fovfisheye="360" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" author="" datetime="27.04.2025 13:27" heading="0" latitude="" title="Комната" source="" info="" longitude="" customnodeid="" comment="" tags="в проект" nodeid="node1" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" enabled="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot description="" id="Poly01" title="Прихожая" url="{node3}" target="0.0/0.0/70.0">
+        <polystring>-233.42/13.91|-247.02/9.52|-247.32/-22.73|-232.95/-32.86|-232.95/-32.86</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomin="0" enabled="1"/>
+    <autorotate useanimation="0" speed="0.100" delay="0.00" startloaded="1" nodedelay="0.00" returntohorizon="0.500" noderandom="1" nodefilter="" enabled="1"/>
+    <flyintransition speed="0.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" contextvr="1" invertcontrol="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1944" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="-1.33302" levelingroll="-1.94808" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944">
+      <level height="1944" predecode="0" preload="0" width="1944"/>
+      <level height="972" predecode="0" preload="0" width="972"/>
+      <level height="486" predecode="1" preload="1" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" scaletofit="1" fovfisheye="360" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" author="" datetime="27.04.2025 13:28" heading="0" latitude="" title="Кухня" source="" info="" longitude="" customnodeid="" comment="" tags="в проект" nodeid="node2" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" enabled="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot description="" id="Poly01" title="Прихожая" url="{node3}" target="$fwd">
+        <polystring>-114.38/-49.36|-107.98/21.53|-110.49/25.45|-115.43/27.58|-120.2/28.05|-125.12/26.2|-129.17/23.37|-131.35/19.49|-134.47/-42.19|-134.47/-42.19</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomin="0" enabled="1"/>
+    <autorotate useanimation="0" speed="0.100" delay="0.00" startloaded="1" nodedelay="0.00" returntohorizon="0.500" noderandom="1" nodefilter="" enabled="1"/>
+    <flyintransition speed="0.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" contextvr="1" invertcontrol="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1944" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944">
+      <level height="1944" predecode="0" preload="0" width="1944"/>
+      <level height="972" predecode="0" preload="0" width="972"/>
+      <level height="486" predecode="1" preload="1" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" scaletofit="1" fovfisheye="360" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" author="" datetime="27.04.2025 13:28" heading="0" latitude="" title="Прихожая" source="" info="" longitude="" customnodeid="" comment="" tags="в проект" nodeid="node3" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" enabled="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot description="" id="Poly01" title="Кухня" url="{node2}" target="83.4/-6.3/70.0">
+        <polystring>-255.86/-32.45|-256.29/10.01|-261.47/12.97|-264.84/13.65|-268.02/13.11|-272.93/10.29|-273.12/-33.05|-272.89/-32.89</polystring>
+      </polyhotspot>
+      <polyhotspot description="" id="Poly02" title="Комната" url="{node1}" target="$bwd">
+        <polystring>-162.54/-67.88|-161.64/40.24|-229.99/27.57|-226.51/-61.31</polystring>
+      </polyhotspot>
+      <polyhotspot description="" id="Poly03" title="Санузел" url="{node4}" target="13.6/0.7/70.0">
+        <polystring>-286.41/-68.82|-276.44/-49.65|-277.84/19.35|-284.91/34.59</polystring>
+      </polyhotspot>
+      <polyhotspot description="" id="Poly04" title="Во двор" url="{node5}" target="0.0/0.0/70.0">
+        <polystring>-75.53/-59.59|-74.74/28.4|-123.16/26.26|-122/-56.92</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomin="0" enabled="1"/>
+    <autorotate useanimation="0" speed="0.100" delay="0.00" startloaded="1" nodedelay="0.00" returntohorizon="0.500" noderandom="1" nodefilter="" enabled="1"/>
+    <flyintransition speed="0.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" contextvr="1" invertcontrol="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1944" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="-1.12565" levelingroll="0.648045" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944">
+      <level height="1944" predecode="0" preload="0" width="1944"/>
+      <level height="972" predecode="0" preload="0" width="972"/>
+      <level height="486" predecode="1" preload="1" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="13.61" projection="4" fov="70" tilt="0.69"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" scaletofit="1" fovfisheye="360" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" author="" datetime="27.04.2025 13:29" heading="0" latitude="" title="Санузел" source="" info="" longitude="" customnodeid="" comment="" tags="в проект" nodeid="node4" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" enabled="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot description="" id="Poly01" title="Прихожая" url="{node3}" target="-151.5/-6.2/70.0">
+        <polystring>-155.42/-59.22|-124.71/-51.28|-123.88/21.81|-156.64/28.67</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomin="0" enabled="1"/>
+    <autorotate useanimation="0" speed="0.100" delay="0.00" startloaded="1" nodedelay="0.00" returntohorizon="0.500" noderandom="1" nodefilter="" enabled="1"/>
+    <flyintransition speed="0.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" contextvr="1" invertcontrol="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1944" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944">
+      <level height="1944" predecode="0" preload="0" width="1944"/>
+      <level height="972" predecode="0" preload="0" width="972"/>
+      <level height="486" predecode="1" preload="1" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" scaletofit="1" fovfisheye="360" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" author="" datetime="27.04.2025 13:30" heading="0" latitude="" title="Двор" source="" info="" longitude="" customnodeid="" comment="" tags="в проект" nodeid="node5" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" enabled="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" pan="-31.53" title="Сосновый бор" url="{node6}" target="" skinid="ht_node" tilt="19.63"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomin="0" enabled="1"/>
+    <autorotate useanimation="0" speed="0.100" delay="0.00" startloaded="1" nodedelay="0.00" returntohorizon="0.500" noderandom="1" nodefilter="" enabled="1"/>
+    <flyintransition speed="0.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" contextvr="1" invertcontrol="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1944" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1944">
+      <level height="1944" predecode="0" preload="0" width="1944"/>
+      <level height="972" predecode="0" preload="0" width="972"/>
+      <level height="486" predecode="1" preload="1" width="486"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" scaletofit="1" fovfisheye="360" fov="120" tilt="90"/>
+    </view>
+    <userdata description="" author="" datetime="27.04.2025 13:32" heading="0" latitude="" title="Сосновый бор" source="" info="" longitude="" customnodeid="" comment="" tags="в проект" nodeid="node6" copyright=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" bordercolor="0x000000" textcolor="0x000000" border="1" textalpha="1" backgroundalpha="1" borderradius="1" background="1" borderalpha="1" wordwrap="1" enabled="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" id="Point01" pan="-169.74" title="В квартиру" url="{node3}" target="89.4/-2.3/70.0" skinid="ht_node" tilt="-4.82"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" blendtime="1" zoomspeed="2" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" zoomin="0" enabled="1"/>
+    <autorotate useanimation="0" speed="0.100" delay="0.00" startloaded="1" nodedelay="0.00" returntohorizon="0.500" noderandom="1" nodefilter="" enabled="1"/>
+    <flyintransition speed="0.50" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" contextprojections="0" hideabout="0" sensitivity="8" contextvr="1" invertcontrol="1" lockedwheel="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" invertwheel="0" lockedmouse="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" datetime="" heading="0" latitude="" title="" source="" info="" longitude="" customnodeid="" comment="" tags="" nodeid="master" copyright=""/>
+  </masternode>
+</tour>
